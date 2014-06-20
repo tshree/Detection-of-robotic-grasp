@@ -1,5 +1,4 @@
-Code for Deep Learning for Detecting Robotic Grasps, Ian Lenz, Honglak Lee,
-Ashutosh Saxena. In Robotics: Science and Systems (RSS), 2013.
+Code for Deep Learning for Detecting Robotic Grasps
 
 Intended to be a simple codebase which will allow you to load the grasping
 dataset, process and whiten it, train a network, and perform grasp
